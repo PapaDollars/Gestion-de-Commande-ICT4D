@@ -1,0 +1,35 @@
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\bin\Debug\Gestion_commande.exe.config
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\bin\Debug\Gestion_commande.exe
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\bin\Debug\Gestion_commande.pdb
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.csprojResolveAssemblyReference.cache
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.Form1.resources
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.Properties.Resources.resources
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.csproj.GenerateResource.Cache
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.exe
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.pdb
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.forms.FormClient.resources
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.forms.FormProduct.resources
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.forms.FormCommande.resources
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.forms.FormConsult.resources
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\bin\Debug\Newtonsoft.Json.dll
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\bin\Debug\Newtonsoft.Json.pdb
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\bin\Debug\Newtonsoft.Json.xml
+c:\users\divad\documents\visual studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.Login.resources
+C:\Users\Divad\Documents\Visual Studio 2012\Projects\Gestion_commande\Gestion_commande\obj\Debug\Gestion_commande.forms.SimpeForm.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\bin\Debug\Gestion_commande.exe.config
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.exe
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.pdb
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\bin\Debug\Gestion_commande.exe
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\bin\Debug\Gestion_commande.pdb
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.csprojResolveAssemblyReference.cache
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.Form1.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.forms.FormClient.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.forms.FormCommande.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.forms.FormConsult.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.forms.FormProduct.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.forms.SimpeForm.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.Login.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.Properties.Resources.resources
+C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.csproj.GenerateResource.Cache
