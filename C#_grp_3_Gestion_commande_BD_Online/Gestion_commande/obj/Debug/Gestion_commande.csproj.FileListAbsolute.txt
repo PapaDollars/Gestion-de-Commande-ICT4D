@@ -33,3 +33,6 @@ C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_B
 C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.Login.resources
 C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.Properties.Resources.resources
 C:\Users\Papa_dollars\Documents\GitHub\Projet_ict-L2\C#_grp_3_Gestion_commande_BD_Online\groupe_3\Gestion_commande\obj\Debug\Gestion_commande.csproj.GenerateResource.Cache
+C:\Users\MSI Papa-dollars\Documents\GitHub\Gestion-de-Commande-ICT4D\C#_grp_3_Gestion_commande_BD_Online\Gestion_commande\bin\Debug\Gestion_commande.exe.config
+C:\Users\MSI Papa-dollars\Documents\GitHub\Gestion-de-Commande-ICT4D\C#_grp_3_Gestion_commande_BD_Online\Gestion_commande\obj\Debug\Gestion_commande.exe
+C:\Users\MSI Papa-dollars\Documents\GitHub\Gestion-de-Commande-ICT4D\C#_grp_3_Gestion_commande_BD_Online\Gestion_commande\obj\Debug\Gestion_commande.pdb

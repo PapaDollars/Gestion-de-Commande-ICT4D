@@ -36,7 +36,16 @@
     </Reference>
     <Reference Include="MySql.Data, Version=6.8.7.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\IDE\mysql.data\v4.0\MySql.Data.dll</HintPath>
+      <HintPath>..\..\..\EmploiesDeTemps\GestionsEmploiesDuTemps\Properties\v4.0\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity">
+      <HintPath>..\..\..\EmploiesDeTemps\GestionsEmploiesDuTemps\Properties\v4.0\MySql.Data.Entity.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.Entity.EF6">
+      <HintPath>..\..\..\EmploiesDeTemps\GestionsEmploiesDuTemps\Properties\v4.0\MySql.Data.Entity.EF6.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web">
+      <HintPath>..\..\..\EmploiesDeTemps\GestionsEmploiesDuTemps\Properties\v4.0\MySql.Web.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\C#\Json130r1\Bin\net20\Newtonsoft.Json.dll</HintPath>
@@ -165,6 +174,9 @@
     <EmbeddedResource Include="Spash.resx">
       <DependentUpon>Spash.cs</DependentUpon>
     </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

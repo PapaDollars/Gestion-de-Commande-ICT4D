@@ -107,6 +107,7 @@
             this.gestion.Name = "gestion";
             this.gestion.Size = new System.Drawing.Size(71, 24);
             this.gestion.Text = "Gestion";
+            this.gestion.Click += new System.EventHandler(this.gestion_Click);
             // 
             // gestionDesClientToolStripMenuItem
             // 
